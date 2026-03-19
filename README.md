@@ -1,13 +1,13 @@
 ## About
-Passionate about Serverless/Cloud Native and AWS cloud.
+Passionate about Serverless, Cloud Native, AWS & Gen AI
 
-Tomas is a senior full-stack developer/architect with over 20 years of professional experience. When creating software solutions he always makes sure to validate, design and implement the solution so that real business value is created. Tomas is very strong in backend development, devops and cloud architectures.
-He is AWS Certified Solutions Architect – Professional.
+Tomas is a Senior Full-Stack Developer & Cloud Architect with 25+ years of professional IT experience, combining deep technical expertise with a sharp focus on delivering real business value.
 
-Tomas has a holistic view of the software development process and is very experienced in using agile methods, such as SCRUM.
+With vast experience across AWS Landing Zones, cybersecurity, and cloud-native architectures, Tomas designs and implements secure, scalable, and well-governed cloud environments from the ground up. He holds the AWS Certified Solutions Architect – Professional certification and brings end-to-end ownership to every engagement — from validation and design through to implementation.
 
-As a person Tomas is curious and self-driven, always on the hunt for new knowledge in the field of software and cloud architectures. Tomas identifies problems, and enjoys solving them, particularly within his area of AWS expertise. He always attend some course on Udemy and visits tech conferences to keep up to date with the latest news.
+A strong practitioner of agentic AI, Tomas leverages cutting-edge AI-driven coding workflows to accelerate development, improve code quality, and solve complex engineering challenges faster than ever.
 
-Tomas is a team player and is used to be the "go-to-guy" when it involves discussing architecture/technical directions as well as solving "that issue no one knows how to solve". When it comes to devops, he favours automation, because it is better, and more fun.
+His core strengths span backend development, DevOps, cloud security, and infrastructure automation — with a firm belief that automation isn't just better practice, it's also more fun.
 
-IT experience since 1999
+Tomas takes a holistic view of software delivery and is highly experienced with agile methodologies including Scrum. Known as the "go-to person" for architecture decisions and those thorny problems no one else can crack, he thrives at the intersection of technical leadership and hands-on engineering.
+Curiosity drives everything — whether it's a new Udemy course, a tech conference, or the latest shift in cloud and AI. Tomas is always ahead of the curve, and brings that energy to every team he works with.
